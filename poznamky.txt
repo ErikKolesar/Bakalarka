@@ -1,0 +1,37 @@
+1. ist od dneska smerom dozadu na updatnutie databazy
+2. waybackpy API najst ako vyparsovat cisty text alebo html  
+3. statistiku base urls aky je pocet nech vieme ze co sa oplati scrapovat 
+
+ozvat sa do konca roka ked pokrocim 
+
+ako vieme ze to pise clovek? na Mareka
+
+
+
+-----------------------------------------------------------
+
+ako zistime ci su tldr data naozaj pisane clovekom?
+keby aj niesu tak nieje to idealne ale je to lepsie ako nic. nevieme to zabezpecit 
+
+ako budeme hladat originalne clanky kedze statistika z base url neukazala nejake vysledky
+
+wayback machine api som moc nepreskumal 
+
+co dalej no 
+
+
+standartny textovaci extraktor
+
+
+
+zoberie najvacsi element pixelovo najvacsi a z neho zoberie text 
+
+prvých 10 dajme tomu ze aj manualne pozriet 
+
+trafilatura python package na prvých 10 spravit 
+
+skontrolovat duplicitu - podla url 
+
+ziskat metadata z main page a tiezz to pripalit ku kazdej sumarizacii 
+
+sparovat cez url 
