@@ -1,3 +1,0 @@
-merged_articles.json filter=lfs diff=lfs merge=lfs -text
-cleaned_articles.json filter=lfs diff=lfs merge=lfs -text
-cleaned_articles2.json filter=lfs diff=lfs merge=lfs -text
